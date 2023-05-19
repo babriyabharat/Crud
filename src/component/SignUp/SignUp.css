@@ -1,0 +1,6 @@
+.main-form{
+    width: 600px;
+}
+.bg-secondary {
+    --bs-bg-opacity: 0.2 !important;
+}
